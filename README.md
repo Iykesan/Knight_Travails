@@ -27,7 +27,7 @@ knightMoves([0, 1], [3, 5])
 ```
 // Output:
 ```js
-// [[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
+output : [[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
 ```
 ### Challenges Faced
 Understanding how BFS guarantees the shortest path
