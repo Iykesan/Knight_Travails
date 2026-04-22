@@ -25,7 +25,7 @@ Once the target is reached, the path is reconstructed by backtracking
 ```js
 knightMoves([0, 1], [3, 5])
 ```
-// Output:
+Output:
 ```terminal
 [[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
 ```
