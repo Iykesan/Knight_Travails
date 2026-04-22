@@ -22,9 +22,13 @@ BFS is used to explore all possible knight moves
 Each node stores a reference to the previous node
 Once the target is reached, the path is reconstructed by backtracking
 ### Example
+```js
 knightMoves([0, 1], [3, 5])
+```
 // Output:
+```js
 // [[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
+```
 ### Challenges Faced
 Understanding how BFS guarantees the shortest path
 Handling revisiting nodes and preventing infinite loops
