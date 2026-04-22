@@ -26,8 +26,8 @@ Once the target is reached, the path is reconstructed by backtracking
 knightMoves([0, 1], [3, 5])
 ```
 // Output:
-```js
-output : [[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
+```terminal
+[[0,1], [2,2], [3,4], [1,5], [3,6], [5,5]]
 ```
 ### Challenges Faced
 Understanding how BFS guarantees the shortest path
